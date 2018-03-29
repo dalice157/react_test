@@ -1,2 +1,2 @@
 # react_test
-練習使用
+Todo List的練習
