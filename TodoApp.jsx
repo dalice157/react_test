@@ -27,7 +27,7 @@ class TodoApp extends React.Component {
                 {
                     id: 2,
                     title: 'Item 3',
-                    completed: false
+                    completed: true
                 },
                 {
                     id: 3,
@@ -37,7 +37,7 @@ class TodoApp extends React.Component {
                 {
                     id: 4,
                     title: 'Item 5',
-                    completed: false
+                    completed: true
                 },
                 {
                     id: 5,
