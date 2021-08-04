@@ -74,11 +74,6 @@ class TodoApp extends React.Component {
                     title: 'Item 12',
                     completed: false
                 },
-                {
-                    id: 12,
-                    title: 'Item 13',
-                    completed: true
-                }
             ]
         };
     }
